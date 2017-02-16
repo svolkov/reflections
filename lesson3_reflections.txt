@@ -9,7 +9,9 @@ automatically stay up-to-date with your remote repository?
 
 Describe the differences between forks, clones, and branches.  When would you use one instead of another?
 
-    Fill in your answer here
+    Branches concept works within one repository.
+    If I’d like to make copy of existing repository (local -> local, remote -> local), I’ll be using Cloning.
+    If I need to copy a remote repository, I use Forking.
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
